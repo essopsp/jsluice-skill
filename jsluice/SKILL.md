@@ -1,6 +1,6 @@
 ---
 name: jsluice
-description: Use when extracting URLs, paths, endpoints, secrets, API keys, or interesting data from JavaScript files with JSLuice (Bishop Fox) during reconnaissance, bug bounty, or web app assessments. Triggers: JS analysis, javascript recon, extract endpoints from js, find secrets in javascript, JSLuice, jsluice CLI.
+description: "Use when extracting URLs, paths, endpoints, secrets, API keys, or interesting data from JavaScript files with JSLuice (Bishop Fox) during reconnaissance, bug bounty, or web app assessments. Triggers: JS analysis, javascript recon, extract endpoints from js, find secrets in javascript, JSLuice, jsluice CLI."
 ---
 
 # JSLuice — Extract Secrets & URLs from JavaScript Files
